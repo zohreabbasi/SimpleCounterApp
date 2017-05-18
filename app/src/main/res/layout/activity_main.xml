@@ -61,7 +61,7 @@
         android:layout_marginStart="22dp"
         android:onClick="increment"
         android:text="Increment"
-        android:textStyle="bold" />
+        android:textStyle="bold"  />
 
     <Button
         android:id="@+id/btn_reset"
