@@ -69,6 +69,7 @@
         android:layout_height="wrap_content"
         android:layout_alignEnd="@+id/imageView3"
         android:layout_alignParentBottom="true"
+        android:onClick="reset"
         android:text="Reset"
         android:textStyle="bold" />
 </RelativeLayout>
